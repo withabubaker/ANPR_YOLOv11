@@ -1,0 +1,10 @@
+easyocr==1.7.2
+numpy==1.26.4
+opencv-python==4.11.0.86
+opencv-python-headless==4.11.0.86
+pandas==2.2.3
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+ultralytics==8.3.97
+ultralytics-thop==2.0.14
