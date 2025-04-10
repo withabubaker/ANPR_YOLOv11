@@ -17,3 +17,11 @@ Build a model to detect and recognize vehicle number plates, enabling seamless p
 
 
 ![alt text](https://github.com/withabubaker/ANPR_Yolov11/blob/main/img/headimg.jpg)
+
+
+## Process
+
+1. Insert the image or video into YOLOv11 model for object detection to extract the number plate region.
+2. Use EasyOCR to read the text, ignoring all non-alphanumeric characters.
+3. Apply a filtering function to select text that covers at least 55% of the detected region, ignore anything else.
+4. Save the result in the output folder.
