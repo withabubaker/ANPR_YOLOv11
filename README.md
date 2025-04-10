@@ -25,3 +25,9 @@ Build a model to detect and recognize vehicle number plates, enabling seamless p
 2. Use EasyOCR to read the text, ignoring all non-alphanumeric characters.
 3. Apply a filtering function to select text that covers at least 55% of the detected region, ignore anything else.
 4. Save the result in the output folder.
+
+
+## Dataset
+
+I collected 70 number plate images from various vehicles (SUVs, Trucks, Sedans, etc.) on the street using a phone camera.
+Out of these, 50 images were used for training and 20 for testing.
