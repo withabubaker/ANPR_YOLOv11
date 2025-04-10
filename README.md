@@ -37,9 +37,9 @@ Out of these, 50 images were used for training and 20 for testing.
 
 Python environment => 3.12.1
 
-Clone the repo
+1. Clone the repo:
 
-```
+```bash
 git clone https://github.com/withabubaker/ANPR_Yolov11.git
 ```
 
@@ -55,3 +55,6 @@ Run the model
 ```python
 python deploy.py <folder_path | image_path | video_path>
 ```
+Example: 
+if you want to run the model against all the images in the images folder
+python deploy.py D:/ANPR/images
