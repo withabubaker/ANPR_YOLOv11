@@ -64,11 +64,11 @@ python deploy.py D:/ANPR/images
 
 ## Results
 
-the model's mPA scores are as follows: 
+The model's mPA scores are as follows: 
 . mAP50-95(B): 0.807
 . mAP50(B): 0.995
 
-Sample results
+Sample results:
 
 <a href="https://www.youtube.com/watch?v=10Vzn9jfCFE">
   <img src="https://img.youtube.com/vi/10Vzn9jfCFE/maxresdefault.jpg" alt="Watch the video" width="500"/>
