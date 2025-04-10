@@ -50,3 +50,8 @@ pip3 install -r requirements.txt
 
 ```
 
+Run the model
+
+```python
+python deploy.py <folder_path | image_path | video_path>
+```
