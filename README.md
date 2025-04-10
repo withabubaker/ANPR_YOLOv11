@@ -35,18 +35,46 @@ Out of these, 50 images were used for training and 20 for testing.
 
 ## Setup and Installation
 
-Python environment => 3.8.10
+Python environment => 3.12.1
 
-Clone the repo
+1. Clone the repo:
 
-```
+```bash
 git clone https://github.com/withabubaker/ANPR_Yolov11.git
 ```
 
-Install the libraries and dependencies in requirements.txt
+2. Install the required libraries and dependencies:
 
-```python
-pip3 install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
 ```
+
+3. Run the model:
+
+```bash
+python deploy.py <folder_path | image_path | video_path>
+```
+Example: 
+To run the model on all images inside a folder
+
+```bash
+python deploy.py D:/ANPR/images
+```
+
+
+## Results
+
+the model mPA scores 
+mAP50-95(B): 0.807
+mAP50(B): 0.995
+Sample results
+
+<a href="https://www.youtube.com/watch?v=10Vzn9jfCFE">
+  <img src="https://img.youtube.com/vi/10Vzn9jfCFE/maxresdefault.jpg" alt="Watch the video" width="500"/>
+</a>
+
+
+[![Watch the video](https://img.youtube.com/vi/10Vzn9jfCFE/maxresdefault.jpg)](https://www.youtube.com/watch?v=10Vzn9jfCFE)
+
+
 
