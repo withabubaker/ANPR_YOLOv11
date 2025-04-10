@@ -12,5 +12,4 @@ This project presents a license plate detection and recognition pipeline, levera
 
 ## Project Goals
 
-Build a model to detect and recognize vehicle number plates, enabling seamless parking entrance and exit as an alternative to using an access card.
-Utilize YOLOV11 for object detection, OpenCV for image processing, and EasyOCR for text recognition.
+Build a model to detect and recognize vehicle number plates, enabling seamless parking entrance and exit as an alternative to using an access card. Utilize YOLOv11 for object detection, OpenCV for image processing, and EasyOCR for text recognition.
