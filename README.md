@@ -74,9 +74,7 @@ Sample results
   <img src="https://img.youtube.com/vi/10Vzn9jfCFE/maxresdefault.jpg" alt="Watch the video" width="500"/>
 </a>
 <br>
-
-Sometimes,  the model confuses the "W" with the "H", as shown in the image below:
 <br>
-
+Sometimes,  the model confuses the "W" with the "H", as shown in the image below:
 <img src="https://github.com/withabubaker/ANPR_Yolov11/blob/main/img/falseResult.jpg" alt="False result" width="400"/>
 
