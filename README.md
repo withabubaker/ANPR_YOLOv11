@@ -46,7 +46,7 @@ git clone https://github.com/withabubaker/ANPR_Yolov11.git
 2. Install the required libraries and dependencies:
 
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 3. Run the model:
