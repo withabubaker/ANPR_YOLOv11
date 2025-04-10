@@ -64,9 +64,10 @@ python deploy.py D:/ANPR/images
 
 ## Results
 
-the model mPA scores 
-mAP50-95(B): 0.807
-mAP50(B): 0.995
+the model's mPA scores are as follows: 
+. mAP50-95(B): 0.807
+. mAP50(B): 0.995
+
 Sample results
 
 <a href="https://www.youtube.com/watch?v=10Vzn9jfCFE">
@@ -74,7 +75,7 @@ Sample results
 </a>
 
 
-Sometimes the model confuses the W with H like here:
+Sometimes,  the model confuses the "W" with the "H", as shown in the image below:
 
-![alt text](https://github.com/withabubaker/ANPR_Yolov11/blob/main/img/falseResult.jpg)
+![alt text](<img src="https://github.com/withabubaker/ANPR_Yolov11/blob/main/img/falseResult.jpg" alt="Flase result" width="400"/> )
 
