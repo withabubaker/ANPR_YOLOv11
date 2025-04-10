@@ -69,10 +69,12 @@ mAP50-95(B): 0.807
 mAP50(B): 0.995
 Sample results
 
+<a href="https://www.youtube.com/watch?v=10Vzn9jfCFE">
+  <img src="https://img.youtube.com/vi/10Vzn9jfCFE/maxresdefault.jpg" alt="Watch the video" width="500"/>
+</a>
+
+
 [![Watch the video](https://img.youtube.com/vi/10Vzn9jfCFE/maxresdefault.jpg)](https://www.youtube.com/watch?v=10Vzn9jfCFE)
 
-
-
-![alt text](https://github.com/withabubaker/ANPR_Yolov11/blob/main/img/headimg.jpg)
 
 
