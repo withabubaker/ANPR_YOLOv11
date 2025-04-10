@@ -31,3 +31,22 @@ Build a model to detect and recognize vehicle number plates, enabling seamless p
 
 I collected 70 number plate images from various vehicles (SUVs, Trucks, Sedans, etc.) on the street using a phone camera.
 Out of these, 50 images were used for training and 20 for testing.
+
+
+## Setup and Installation
+
+Python environment => 3.8.10
+
+Clone the repo
+
+```
+git clone https://github.com/withabubaker/ANPR_Yolov11.git
+```
+
+Install the libraries and dependencies in requirements.txt
+
+```python
+pip3 install -r requirements.txt
+
+```
+
