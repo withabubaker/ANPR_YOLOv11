@@ -35,7 +35,7 @@ Out of these, 50 images were used for training and 20 for testing.
 
 ## Setup and Installation
 
-Python environment => 3.8.10
+Python environment => 3.12.1
 
 Clone the repo
 
