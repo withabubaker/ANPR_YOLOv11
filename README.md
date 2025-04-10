@@ -43,18 +43,20 @@ Python environment => 3.12.1
 git clone https://github.com/withabubaker/ANPR_Yolov11.git
 ```
 
-Install the libraries and dependencies in requirements.txt
+2. Install the required libraries and dependencies:
 
-```python
+```bash
 pip3 install -r requirements.txt
-
 ```
 
-Run the model
+3. Run the model:
 
-```python
+```bash
 python deploy.py <folder_path | image_path | video_path>
 ```
 Example: 
-if you want to run the model against all the images in the images folder
+To run the model on all images inside a folder
+
+```bash
 python deploy.py D:/ANPR/images
+```
