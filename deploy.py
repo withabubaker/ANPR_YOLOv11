@@ -1,7 +1,7 @@
 import sys
 import os
-from yolo_model import load_model
-from media_utils import process_image, process_video
+from helpers.yolo_model import load_model
+from helpers.media_utils import process_image, process_video
 
 def anpr(path):
     model, classes = load_model()

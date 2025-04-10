@@ -1,7 +1,7 @@
 import os
 import cv2
-from ocr_utils import boxing
-from yolo_model import detecting
+from helpers.ocr_utils import boxing
+from helpers.yolo_model import detecting
 
 
 def process_image(img_path, model, classes, output_dir):
