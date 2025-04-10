@@ -74,7 +74,7 @@ Sample results
 </a>
 
 
-[![Watch the video](https://img.youtube.com/vi/10Vzn9jfCFE/maxresdefault.jpg)](https://www.youtube.com/watch?v=10Vzn9jfCFE)
+Sometimes the model confuses the W with H like here:
 
-
+![alt text](https://github.com/withabubaker/ANPR_Yolov11/blob/main/img/falseResult.jpg)
 
