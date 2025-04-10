@@ -77,5 +77,5 @@ Sample results
 
 Sometimes,  the model confuses the "W" with the "H", as shown in the image below:
 
-![alt text](<img src="https://github.com/withabubaker/ANPR_Yolov11/blob/main/img/falseResult.jpg" alt="Flase result" width="400"/> )
+<img src="https://github.com/withabubaker/ANPR_Yolov11/blob/main/img/falseResult.jpg" alt="False result" width="400"/>
 
