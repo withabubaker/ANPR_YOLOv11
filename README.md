@@ -7,8 +7,6 @@ This project presents a license plate detection and recognition pipeline, levera
 - Dataset
 - Setup and Installation
 - Results
-- Challenges
-- Future Goals
 
 ## Project Goals
 
